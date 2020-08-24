@@ -1,5 +1,5 @@
 # Hi, I'm Daniel 👋
-<img src="./banner.png" align="center"><br>
+<img src="./banner.png" align="center" height="400" width="720"><br>
 
 Mechatronics Engineer with an emphasis on Application Development in Robotics Perception Systems, Computer Vision techniques, and embedded systems. I am passionate about Computer Vision and Intelligent robotics perception systems, Mobile robotics, multi-robot cooperative systems, and Autonomous Vehicles. I enjoy sharing my work on GitHub with include some c++ applications, python frameworks and small projects about pointcloud processing, image processing, cmake frameworks, and embedded software. 
 
