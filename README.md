@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Daniel 👋
+
+---
+
+Mechatronics Engineer with an emphasis on Application Development in Robotics Perception Systems, Computer Vision techniques, and embedded systems. I am passionate about Computer Vision and Intelligent robotics perception systems, Mobile robotics, multi-robot cooperative systems, and Autonomous Vehicles.
+
+Find me on my networks:
+
+- LinkedIn: https://www.linkedin.com/in/danieltobonco43/
+- Portfolio: https://danieltobon43.github.io/
+
 
 <!--
 **danielTobon43/danielTobon43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
