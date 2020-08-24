@@ -1,7 +1,5 @@
 # Hi, I'm Daniel 👋
 
----
-
 Mechatronics Engineer with an emphasis on Application Development in Robotics Perception Systems, Computer Vision techniques, and embedded systems. I am passionate about Computer Vision and Intelligent robotics perception systems, Mobile robotics, multi-robot cooperative systems, and Autonomous Vehicles.
 
 Find me on my networks:
