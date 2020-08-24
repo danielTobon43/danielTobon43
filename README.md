@@ -2,7 +2,7 @@
 <img class="avatar" alt="jonrohan" src="https://raw.githubusercontent.com/danielTobon43/danielTobon43/master/bitmap.png" height="240" width="1200">
 
 
-Mechatronics Engineer with an emphasis on Application Development in Robotics Perception Systems, Computer Vision techniques, and embedded systems. I am passionate about Computer Vision and Intelligent robotics perception systems, Mobile robotics, multi-robot cooperative systems, and Autonomous Vehicles. I enjoy sharing my work on GitHub with include some c++ applications, python frameworks and small projects about pointcloud processing, image processing, cmake frameworks, and embedded software. 
+Mechatronics Engineer with an emphasis on Application Development in Robotics Perception Systems, Computer Vision techniques, and embedded systems. I am passionate about Computer Vision and Intelligent robotics perception systems, Mobile robotics, multi-robot cooperative systems, and Autonomous Vehicles. I enjoy sharing my work on GitHub either some c++ applications, python frameworks and small projects about pointcloud processing, image processing, cmake frameworks, and embedded software. 
 
 Find me on my networks:
 
