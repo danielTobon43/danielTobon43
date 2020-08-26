@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel 👋🙈
 <img class="avatar" alt="jonrohan" src="https://raw.githubusercontent.com/danielTobon43/danielTobon43/master/bitmap.png" height="240" width="1200">
 
 
@@ -8,6 +8,7 @@ Find me on my networks:
 
 - LinkedIn: https://www.linkedin.com/in/danieltobonco43/
 - Portfolio: https://danieltobon43.github.io/
+- ResearchGate: https://www.researchgate.net/profile/Daniel_Tobon2
 
 
 <!--
