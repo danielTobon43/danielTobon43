@@ -9,6 +9,8 @@ Find me on my networks:
 - LinkedIn: https://www.linkedin.com/in/danieltobonco43/
 - Portfolio: https://danieltobon43.github.io/
 - ResearchGate: https://www.researchgate.net/profile/Daniel_Tobon2
+- Student research group in robotics SIR: https://www.instagram.com/robotica_uao/
+- Robotics group UAO: https://semilleroderobotica.wixsite.com/semillero-iruao
 
 
 <!--
