@@ -37,7 +37,8 @@ Check this laboratory:
 ---
 
 ## &#x1f4c8; My GitHub Stats
-<div style="display: flex; flex-direction: row; height:200px">
+<!-- <div style="display: flex; flex-direction: row; height:200px"> -->
+<div class="col-md-7 horizontal-list-media" style="height: 200px">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=danielTobon43&show_icons=true&theme=radical" style="height: 100%;" class="img-responsive"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&theme=radical" style="height: 100%;" class="img-responsive"/>
 </div>
