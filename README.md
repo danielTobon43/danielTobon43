@@ -34,14 +34,14 @@ Check this laboratory:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=0078D6)
 ![Cpp](https://img.shields.io/badge/-Cpp-000000?style=flat&logo=cpp&logoColor=ffffff&labelColor=0078D6)
 
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
-
+<p style="display: flex; justify-contect: space-between;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
