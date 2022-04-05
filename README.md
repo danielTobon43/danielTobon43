@@ -32,7 +32,7 @@ Check this laboratory:
 ![Sqlite3](https://img.shields.io/badge/-Sqlite3-000000?style=flat&logo=sqlite3&logoColor=ffffff&labelColor=0078D6)
 ![PCL](https://img.shields.io/badge/-PCL-000000?style=flat&logo=pcl&logoColor=ffffff&labelColor=0078D6)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=0078D6)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++&logoColor=ffffff&labelColor=0078D6)
+![Cpp](https://img.shields.io/badge/-Cpp-000000?style=flat&logo=cpp&logoColor=ffffff&labelColor=0078D6)
 
 
 ---
