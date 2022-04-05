@@ -14,13 +14,27 @@ Check this laboratory:
 - Student research group in robotics SIR: https://www.instagram.com/robotica_uao/
 - Robotics group UAO: https://semilleroderobotica.wixsite.com/semillero-iruao
 
+
+---
+
+💻 **Languages and Tools:** 🛠️<br>
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=ffffff&labelColor=0078D6)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=yellow)
+
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[img align="center" ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
