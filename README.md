@@ -20,12 +20,12 @@ Check this laboratory:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&repo=DBScan-PCL-Optimized)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielTobon43)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielTobon43&show_owner=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **danielTobon43/danielTobon43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
