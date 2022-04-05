@@ -22,7 +22,7 @@ Check this laboratory:
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&repo=DBScan-PCL-Optimized)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielTobon43)](https://github.com/ryo-ma/github-profile-trophy)
