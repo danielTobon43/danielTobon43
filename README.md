@@ -38,8 +38,8 @@ Check this laboratory:
 
 ## &#x1f4c8; My GitHub Stats
 <div style="display: flex; flex-direction: row; height:200px">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=danielTobon43&show_icons=true&theme=radical" height="400"/>
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&theme=radical" height="400"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=danielTobon43&show_icons=true&theme=radical" height="100"/>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&theme=radical" height="100"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
