@@ -22,6 +22,8 @@ Check this laboratory:
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&theme=radical" />
+
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielTobon43)](https://github.com/ryo-ma/github-profile-trophy)
 
