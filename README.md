@@ -43,6 +43,11 @@ Check this laboratory:
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&theme=radical" style="height: 100%;" class="img-responsive"/>
 </div>
 
+<div class="col-md-7 horizontal-list-media" style="height: 200px">
+  <img src="http://moneyti.co/wp-content/uploads/2016/01/16-Zingis-RUS.png" style="width: 50%;height: 100%; float : left" class="img-responsive">
+    <img src="http://moneyti.co/wp-content/uploads/2016/01/16-kazino-RUS-360x240.png" style="width: 50%;height: 100%; float : right" class="img-responsive">
+</div>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielTobon43&repo=DBScan-PCL-Optimized&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
