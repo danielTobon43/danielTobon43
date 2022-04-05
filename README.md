@@ -18,9 +18,9 @@ Check this laboratory:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<danielTobon43>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielTobon43&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=<danielTobon43>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielTobon43&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielTobon43)](https://github.com/ryo-ma/github-profile-trophy)
