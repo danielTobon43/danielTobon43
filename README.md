@@ -25,9 +25,14 @@ Check this laboratory:
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=ffffff&labelColor=yellow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=ffffff&labelColor=007ACC)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=ffffff&labelColor=ffffff)
 ![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros&logoColor=ffffff&labelColor=0078D6)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
+![Sqlite3](https://img.shields.io/badge/-Sqlite3-000000?style=flat&logo=sqlite3&logoColor=ffffff&labelColor=0078D6)
+![PCL](https://img.shields.io/badge/-PCL-000000?style=flat&logo=pcl&logoColor=ffffff&labelColor=0078D6)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=0078D6)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++&logoColor=ffffff&labelColor=0078D6)
 
 
 ---
