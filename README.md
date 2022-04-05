@@ -25,6 +25,8 @@ Check this laboratory:
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow&logoColor=ffffff&labelColor=yellow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=ffffff&labelColor=007ACC)
+![ROS](https://img.shields.io/badge/-ROS-000000?style=flat&logo=ros&logoColor=ffffff&labelColor=0078D6)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
